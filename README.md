@@ -12,6 +12,7 @@
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](./solutions/57.%20Insert%20Interval.java)|1 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./solutions/69.%20Sqrt(x).js)|108 ms|
+|75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|0 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.js)|151 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|106 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20Palindrome.js)|120 ms|
