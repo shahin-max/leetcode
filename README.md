@@ -10,6 +10,7 @@
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js)|105 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./solutions/35.%20Search%20Insert%20Position.js)|128 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
+|57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](./solutions/57.%20Insert%20Interval.java)|1 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./solutions/69.%20Sqrt(x).js)|108 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.js)|151 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|106 ms|
