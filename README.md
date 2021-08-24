@@ -21,6 +21,7 @@
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|0 ms|
 |105|[ Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](./solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)|1 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java)|0 ms|
+|112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./solutions/112.%20Path%20Sum.java)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|106 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20Palindrome.js)|120 ms|
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](./solutions/147.%20Insertion%20Sort%20List.java)|30 ms|
