@@ -32,6 +32,7 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|136 ms|
 |173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Java](./solutions/173.%20Binary%20Search%20Tree%20Iterator.java)|14 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Java](./solutions/179.%20Largest%20Number.java)|10 ms|
+|191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./solutions/191.%20Number%20of%201%20Bits.java)|0 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|109 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|91 ms|
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](./solutions/225.%20Implement%20Stack%20using%20Queues.java)|0 ms|
