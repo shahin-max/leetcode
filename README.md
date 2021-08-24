@@ -49,6 +49,7 @@
 |726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Java](./solutions/726.%20Number%20of%20Atoms.java)|4 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./solutions/739.%20Daily%20Temperatures.java)|32 ms|
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Java](./solutions/811.%20Subdomain%20Visit%20Count.java)|14 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./solutions/938.%20Range%20Sum%20of%20BST.java)|0 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|7 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./solutions/1002.%20Find%20Common%20Characters.java)|2 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Java](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.java)|5 ms|
