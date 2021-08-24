@@ -35,6 +35,7 @@
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|7 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[Java](./solutions/554.%20Brick%20Wall.java)|11 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|20 ms|
+|636|[ Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)|[Java](./solutions/636.%20Exclusive%20Time%20of%20Functions.java)|9 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](./solutions/706.%20Design%20HashMap.java)|18 ms|
 |726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Java](./solutions/726.%20Number%20of%20Atoms.java)|4 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./solutions/739.%20Daily%20Temperatures.java)|32 ms|
