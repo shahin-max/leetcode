@@ -20,6 +20,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20Palindrome.js)|120 ms|
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](./solutions/147.%20Insertion%20Sort%20List.java)|30 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Java](./solutions/148.%20Sort%20List.java)|6 ms|
+|155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|4 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|136 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Java](./solutions/179.%20Largest%20Number.java)|10 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|109 ms|
