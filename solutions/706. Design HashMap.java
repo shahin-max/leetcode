@@ -15,7 +15,7 @@ class MyHashMap {
         return;
       }
     lists[key % kSize].add(new int[] {key, value});
-  }
+  }
 ​
   /**
    * Returns the value to which the specified key is mapped, or -1 if this map
